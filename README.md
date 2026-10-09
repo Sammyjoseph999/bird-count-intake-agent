@@ -1,5 +1,7 @@
 # Bird count intake agent
 
+[![tests](https://github.com/Sammyjoseph999/bird-count-intake-agent/actions/workflows/tests.yml/badge.svg)](https://github.com/Sammyjoseph999/bird-count-intake-agent/actions/workflows/tests.yml)
+
 A tool-using LLM agent that turns three piles of messy, hand-written bird count notes into one clean, validated roster, and sends anything it cannot clean with confidence to a review queue instead of guessing.
 
 The idea comes from a Dataquest guided project on tool-using agents. The scenario, data, tool design, prompt and tests in this repository are my own.
