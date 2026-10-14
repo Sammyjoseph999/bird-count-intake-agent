@@ -116,3 +116,7 @@ Everything in `data/` was written for this project.
 - Load the full taxonomy from the eBird API, keeping the bundled file as a fallback.
 - Run the server as a separate process and connect the agent to it over stdio.
 - Add fuzzy matching inside `resolve_species` for misspellings that are not in the alias table, with a similarity threshold and a review flag for near misses.
+
+## License
+
+The code is released under the [MIT License](LICENSE). Datasets keep the terms of their original sources, described above.
